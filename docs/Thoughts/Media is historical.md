@@ -8,7 +8,6 @@ The author suggests that media is a historical subject because media is a produc
 
 ---------------
 Related Links
-
-
+[[What is media]]
 
 tags #Atomic 

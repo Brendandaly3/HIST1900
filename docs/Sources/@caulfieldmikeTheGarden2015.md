@@ -13,12 +13,11 @@ tags: projects:
 
 #### Summary & Key Take Aways
 
-
-
+The article explores the relationship between technology and nature, and how the two can coexist in a harmonious balance.
 
 -----------------
 
 #### Links
 
-[[summarized verson of The Garden and the Stream A Technopastoral]]
+[[summarized verison of The Garden and the Stream A Technopastoral]]
 [[The Stream vs The Garden]]

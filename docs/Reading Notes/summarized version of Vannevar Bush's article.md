@@ -22,3 +22,8 @@
 -----------------------------
 
 Tag #note #ReadingNote
+
+----------------------------
+## Related Links
+
+[[@bushvannevarWeMayThink1945]]

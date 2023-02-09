@@ -12,3 +12,10 @@ French revolution
 	• By 1848 used to communicated across all of france which only took 3 days
 	• Kinda like news towers
 	• Arm signals
+
+------------------------
+#### Links
+
+[[Media is historical]]
+[[@gitelmanlisaAlwaysAlreadyNew2006]]
+

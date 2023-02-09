@@ -10,9 +10,10 @@
 
 #### 'Media'
 -  [[Media is historical]]
+- [[What is media]]
 
 #### 'Tech'
-- [[The Stream vs The Garden]]
+- [[The Stream vs The Garden]] #Idea 
 
 #### Unfinished Thoughts
 - 

@@ -2,8 +2,8 @@
 
 - Theme 1
 	- What is a book
-		• Piecies of paper fastened together
-		• A way of communcation
+		• Pieces of paper fastened together
+		• A way of communication
 		- One person writes it another reads it
 			• Ex. The bible
 		• A form of storage
@@ -12,10 +12,10 @@
 		•  Books have messages or meanings
 		- Journalism is a modern written media
 			• Typically done virtually
-		• Written media is closer to free speach then digital
+		• Written media is closer to free speech then digital
 	- Libraries/Repositories/Sources
 		• Mass storage
-		-  LIke the internet in the way everything is accsessable in one place
+		-  Like the internet in the way everything is accessible in one place
 			• Wikipedia is literally a mass storage of books paraphrased
 
 - Theme 2
@@ -27,3 +27,7 @@
 	- Collapsing space/time - transport techs, comm techs, canalization functions into the future
 	- Network effects
 	- Tech is hard, info is controlled; tech is easy, info exposes; control1
+
+
+------------------------
+#### Links

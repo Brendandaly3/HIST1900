@@ -16,4 +16,4 @@
 - [[The Stream vs The Garden]] #Idea 
 
 #### Unfinished Thoughts
-- 
+-
